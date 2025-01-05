@@ -1,0 +1,17 @@
+ID	Date	Time	Animal ID	details
+3856	08-15-2023	2:00PM	8963	Regular check up.~Meds current.
+-1
+3870	08-23-2023	1:30PM	8588	Regular check up.~Heartworm and flee/tick medicine prescribed. Teeth cleaning recommendation.
+-1
+3882	08-23-2023	10:00AM	7415	Checking GPS tracking.
+-1
+1358	03-05-2024	10:00AM	2356	Regular check up.~Everything is good.
+-1
+1522	04-05-2024	10:00AM	5874	Bee stings.~Gave steroid to promote healing and stop swelling
+-1
+1585	04-16-2024	1:00PM	8963	Regular check up.~Heartworm and flee tick medicine prescribed.
+-1
+3876	08-25-2024	11:00AM	4185	Ate too much of something, throwing up.~prescribed meds and gave special food.
+-1
+3876	08-25-2024	11:00AM	4185	Ate too much of something, throwing up.~prescribed meds and gave special food.
+-1

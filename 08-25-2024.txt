@@ -1,0 +1,5 @@
+ID	Time	animalID	details
+3875	10:00AM	8963	Regular check up. Shots updated
+3876	11:00AM	4185	Ate too much of something, throwing up.
+3877	1:00PM	8588	Regular check up.
+3878	1:30PM	4585	Regular check up.

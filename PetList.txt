@@ -1,0 +1,10 @@
+ID	Name	Type	Subtype	Owner	ownerAddress	ownerContact
+5874	Pooh	Bear	Honey	A.A. Milne	Ashdown Forest, Sussex, England	456-852-7413
+8963	Pongo	Dog	Dalmatian	Roger Henderson	456 Left St. London, England	785-954-2589
+2356	Buddy	Dog	Golden Retriever	Norm Snively	12356 Main St. Fernfield Washington	456-896-8956
+78965	John	Dog	Golden Retriever	Lucas	123 Happy St	402-867-5309
+7415	Willy	Whale	Orca	Jesse Richter	84 Main St. Newport, Oregon	745-654-8999
+3352	Tigger	Tiger	Bouncy	E.H. Shepard	Ashdown Forest, Sussex, England	784-956-8596
+4185	Beethoven	Dog	St. Bernard	Charles Grodin	852 Right St. San Franscisco, California	894-752-3256
+4585	Goose	Cat	Orange Tabby	Carol Danvers	417 5th Ave #10B New York	444-859-8521
+8588	Binx	Cat	Black Tabby	Winnifred Sanderson	217 Essex St Salem, Ma	562-963-8888
